@@ -6,7 +6,7 @@ A real-time sign language recognizer built with MediaPipe and OpenCV. It detects
 
 ## 🎥 Demo
 
-[Soon To Be Added]
+[![Watch the demo](https://img.youtube.com/vi/zGfgGZuizO0/0.jpg)](https://youtu.be/zGfgGZuizO0)
 
 ---
 
